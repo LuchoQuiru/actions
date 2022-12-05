@@ -1,0 +1,5 @@
+estilo:
+- '*.css'
+
+estructura:
+- '*.html'
